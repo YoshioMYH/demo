@@ -12,5 +12,6 @@
     "name": "typicode"
   },
   "test":{
+    "response": "ok"
   }
 }
